@@ -79,8 +79,8 @@ body {
 }
 
 .topnav a:hover {
-    background-color: #f5923d;
-    color: #f5923d;
+    background-color: #ccc;
+    /* color: #f5923d; */
 }
 
 .topnav a.active {
