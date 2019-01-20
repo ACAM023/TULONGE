@@ -89,3 +89,20 @@ body {
     color: #cf0df2;
     font-size: 160%;
 }
+
+a i {
+    margin-left: 10px;
+}
+
+.textBox {
+    position: absolute;
+    bottom: 0;
+    background-color: #555;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.textBox form {
+    display: flex;
+    margin-left: 10px;
+}
